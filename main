@@ -74,6 +74,7 @@ local messages = {
     "my cpi is better than your dpi, ez",
     "Cut in half by {c}!",
     "imagine not being able to double click",
+    "jack is dumb",
 }
 
 local randomObj = Random.new()
