@@ -68,13 +68,12 @@ local messages = {
     "Ez, ez, ez, ez, ez, ez, ez, ez!",
     "{v} cry about it",
     "{v} you have no skillz",
-    "ur dog water kid",
-    "git good bud",
+    "imagine not having a good mouse!!",
+    "ur trash {v}",
     "imagine not having a good gaming chair!",
     "my cpi is better than your dpi, ez",
     "Cut in half by {c}!",
     "imagine not being able to double click",
-    "jack is dumb",
 }
 
 local randomObj = Random.new()
